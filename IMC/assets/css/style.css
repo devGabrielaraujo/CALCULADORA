@@ -15,7 +15,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
-}
 
 #container {
   display:flex;
@@ -24,7 +23,7 @@ body {
 }
 
 #img {
-  width: 32rem;
+  width: 25rem;
 }
 
 #calculator {
